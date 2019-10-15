@@ -3,7 +3,7 @@ id: spec-example
 title: Example: Late Delivery Clause
 ---
 
-In the rest of this specification, we will use the Late Delivery And Penalty legal clause as an example. It is a common clause in a legal contract related to the delivery of good or services, and in some circumstances may be amenable to automation.
+In the rest of this specification, we will use the Late Delivery And Penalty legal clause as an example. It is a common clause in a legal contract related to the delivery of goods or services, and in some circumstances may be amenable to automation.
 
 The Late Delivery And Penalty clause in the typical legal contract looks like this:
 
