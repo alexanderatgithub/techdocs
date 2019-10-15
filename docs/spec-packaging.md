@@ -39,7 +39,7 @@ The name property must consist of `[a-z][A-Z][.]`. It is strongly recommended th
 
 The `accordproject` property of a template specifies the following metadata:
 - `template`: must either be `clause` for a clause template or `contract` for a contract templates
-- `ergo`: the Ergo version used to to draft the template. This is an npm [semver](https://semver.npmjs.com) specification.
+- `ergo`: the Ergo version used to draft the template. This is an npm [semver](https://semver.npmjs.com) specification.
 - `cicero`: the Cicero version with which the template is compatible. This is an npm [semver](https://semver.npmjs.com) specification.
 
 The `keywords` property should list words relevant to the template, and can be useful for search and classification.
